@@ -18,3 +18,7 @@ Este projeto implementa um servidor web no Raspberry Pi Pico W que monitora o es
   - `/` (raiz): Retorna a página HTML principal
   - `/api/buttons`: Retorna o estado dos botões em formato JSON
 - **JavaScript do Cliente**: Realiza requisições periódicas usando a Fetch API
+
+## Dashboard
+
+![Dashboard](./dash-botao.png "Dashboard")
